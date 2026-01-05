@@ -2,13 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:hupDaemon">
-   </FileRef>
-   <FileRef
-      location = "group:hupCommon">
-   </FileRef>
-   <FileRef
-      location = "group:hupUI">
+      location = "group:hupFeatures">
    </FileRef>
    <FileRef
       location = "container:HeadUp.xcodeproj">
